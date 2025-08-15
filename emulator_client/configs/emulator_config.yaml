@@ -1,0 +1,39 @@
+Peformance:
+  CPU Allocation: Low (1 Core)
+  Memory Allocation: Standard (2 GB)
+  Performance Mode: Low Memory
+  Frame Rate: 15
+  Enable High Frame Rate: False
+  Enable VSync: False
+  Display FPS during gameplay: False
+Display:
+  Portrait:
+    Resolution: 720 x 1280
+  Pixel Density: 240
+  Mouse Cursor Style: System Default
+  Interface Scaling: 100% (Default)
+Graphics:
+  Graphics Renderer: Vulkan and OpenGL
+  Interface Renderer: Auto
+  ASTC textures: Disabled
+  GPU: NVIDIA GeForce RTX 4080/PCIe/SSE2
+  Prefere Dedicated GPU: True
+Game Settings:
+  Launch in Full Screen:
+    All apps: False
+    Clash Royale: False
+Devices:
+  Speaker: Windows Default
+  Microphone: Windows Default
+  Camera: Windows Default
+  Camera Rotation Angle: 0
+Gamepad:
+  Gamepad Detection: False
+Phone:
+  Device: Samsung Galaxy S22 Ultra
+  Network Provider: ROGERS
+Advanced:
+  Android Debug Bridge: True
+  Input Debugging:
+    Show Visual Feedback for Taps: False
+    Show Pointer Location for Current Touch Data: False
