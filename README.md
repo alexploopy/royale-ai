@@ -1,3 +1,4 @@
+```
 cff-version: 1.2.0
 message: "If you use this repository or the bundled datasets, please cite as below."
 title: "RoyaleAI, a real-time self-learning agent trained via split supervision"
@@ -14,3 +15,4 @@ abstract: >
   training/eval code and configuration. External datasets credited below.
 license: MIT
 keywords: [evolutionary learning, computer vision, gaming, self-supervision, real-time learning]
+```
