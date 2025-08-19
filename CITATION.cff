@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this repository or the bundled datasets, please cite as below."
+title: "RoyaleAI, a real-time self-learning agent trained via split supervision"
+type: software
+version: "0.1.0"
+date-released: "2025-08-17"
+repository-code: "https://github.com/alexploopy/royaleai"
+authors:
+  - family-names: Tan
+    given-names: Alex
+    orcid: "https://orcid.org/0009-0000-3868-7221"
+abstract: >
+  Real-time agent for Clash Royale trained via split supervision; includes
+  training/eval code and configuration. External datasets credited below.
+license: MIT
+keywords: [evolutionary learning, computer vision, gaming, self-supervision, real-time learning]
+
+preferred-citation:
+  type: software
+  title: "RoyaleAI, a real-time self-learning agent trained via split supervision"
+  authors:
+    - family-names: Tan
+      given-names: Alex
+      orcid: "https://orcid.org/0009-0000-3868-7221"
+  year: 2025
+  version: "0.1.0"
+  url: "https://github.com/alexploopy/royaleai"
+  notes: "Please also cite any third-party datasets used; see references."
+
+references:
+  - type: dataset
+    title: "Clash Royale Dataset"
+    authors:
+      - name: "AngelFire"
+    year: 2025
+    month: 4
+    url: "https://universe.roboflow.com/angelfire/clash-royale-cylln"
+    publisher: "Roboflow"
+    license: "CC BY 4.0"
+    license-url: "https://creativecommons.org/licenses/by/4.0/"
+    date-accessed: "2025-08-01"
+    notes: "Used for training/evaluation; follow dataset license terms."

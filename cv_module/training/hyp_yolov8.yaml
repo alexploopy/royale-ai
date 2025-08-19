@@ -1,0 +1,18 @@
+hsv_h: 0.015
+hsv_s: 0.70
+hsv_v: 0.55
+
+degrees: 3.0
+translate: 0.10
+scale: 0.50
+shear: 2.0
+perspective: 0.0
+
+fliplr: 0.50
+flipud: 0.00
+
+mosaic: 0.40
+mixup: 0.05
+copy_paste: 0.05
+
+

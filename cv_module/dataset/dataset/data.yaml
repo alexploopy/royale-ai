@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 12
+names: ["ally_giant","ally_mini_pekka","ally_knight","ally_musketeer","ally_archer","ally_minion","enemy_giant","enemy_mini_pekka","enemy_knight","enemy_musketeer","enemy_archer","enemy_minion"]
+
+roboflow:
+  workspace: angelfire
+  project: clash-royale-cylln
+  version: 6
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/angelfire/clash-royale-cylln/dataset/6
