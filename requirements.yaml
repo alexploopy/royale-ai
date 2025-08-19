@@ -1,11 +1,19 @@
 name: royaleai
 channels:
+  - pytorch
+  - nvidia
   - conda-forge
   - defaults
 dependencies:
   - python=3.11
+  - numpy=1.26.*
+  - pyyaml=6.*
+  - pytorch=2.5.*
+  - torchvision=0.20.*
+  - pytorch-cuda=12.4
   - pip
   - pip:
-      - opencv-python-headless>=4.9
-      - numpy>=1.26
-      - pyyaml>=6.0
+      - ultralytics==8.3.179
+      - opencv-python-headless==4.12.0.88
+      - pillow>=10,<12
+      - ultralytics-thop==2.0.15
