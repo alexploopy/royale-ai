@@ -1,5 +1,5 @@
-from emulator_client.adb_client import ADBClient
-from emulator_client.game_control.tiles import get_coords_from_tile
+from emulator_module.adb_client import ADBClient
+from emulator_module.game_control.tiles import get_coords_from_tile
 import time
 
 class GameClient:
